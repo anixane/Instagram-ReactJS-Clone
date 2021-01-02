@@ -1,6 +1,6 @@
 # Instagreen (ReactJS + FirebaseAuth + FirebaseDB)
 
-![Alt text](/Demo-Instagram.gif "Optional Title")
+![Alt text](/Demo_Instagram.gif "Optional Title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
