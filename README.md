@@ -1,6 +1,6 @@
 # Instagreen (ReactJS + FirebaseAuth + FirebaseDB)
 
-<img src="/Demo_Instagram.gif" align="left" height="500" width="300">
+<img src="/Demo_Instagram.gif" align="left" height="550" width="300">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
