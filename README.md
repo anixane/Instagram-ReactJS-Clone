@@ -2,7 +2,7 @@
 
 ![Alt text](/Demo_Instagram.gif "Optional Title"| height=500)
 
-<a href="url"><img src="/Demo_Instagram.gif" align="left" height="48" width="48" ></a>
+<img src="/Demo_Instagram.gif" align="left" height="500">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
