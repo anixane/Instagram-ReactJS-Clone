@@ -1,6 +1,6 @@
 # Instagreen (ReactJS + FirebaseAuth + FirebaseDB)
 
-![Alt text](/Demo_Instagram.gif "Optional Title"| height=500)
+![Alt text](/Demo_Instagram.gif "Optional Title"| height="500")
 
 <img src="/Demo_Instagram.gif" align="left" height="500">
 
